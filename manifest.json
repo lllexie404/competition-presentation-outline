@@ -1,0 +1,30 @@
+{
+  "name": "延世韩语 · TOPIK 学习库",
+  "short_name": "Yonsei TOPIK",
+  "description": "延世韩语 1-6 册 TOPIK 学习工具（中韩双语题干）",
+  "start_url": "index.html",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "scope": "/",
+  "categories": ["education", "language"],
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
